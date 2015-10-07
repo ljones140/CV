@@ -65,4 +65,4 @@ As small company also provided IT support for tills and office PCs. Facilities a
 *Retail Assistant and Computer Game Buyer*
 
 **Lloyds Bank** (Aug 2003 to Dec 2003)   
-*Check processing*
+*Cheque processing*
