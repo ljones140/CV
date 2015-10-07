@@ -10,7 +10,7 @@ Determined and ambitious with a strong desire to learn. After working in retail 
 | Coding  | PHP, Perl, shell and batch scripts | Ruby and Javascript |
 | Operating Systems | Windows server and Linux (ubuntu) on VMware vSphere estate | Osx and deploment to Heroku |
 | Frameworks | support of.Net and Java hiberate applications| creating applications with Sinatra, Rails, node.js and Angular
-|Other | supporting RabbitMQs passing messages between services  | Testing Frameworks rpsec, capybara, jasmine, mocha and protractor. Verison control with Git and Git hub |
+|Other | experience supporting RabbitMQs messaging, text search Software. Bulk email sending server | Testing Frameworks rpsec, capybara, jasmine, mocha and protractor. Verison control with Git and Git hub |
 
 #### Proactive Problem Solving
 
@@ -19,7 +19,7 @@ During my time working at Gorkana Group in the application support team I often 
 
 #### Clean Code and Test Driven Development
 
-During my time at Makers Academy I have absorbed the principles that they teach and I aspire to write high quality test driven code. I understand that I still have a lot to learn with coding and I find that I can spot a code smell but may lack the actual coding experience
+During my time at Makers Academy I have absorbed the principles that they teach and I aspire to write high quality test driven code. I understand that I still have a lot to learn with coding and I find that I can spot a code smell if at this moment I lack the actual coding experience to clear it up
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -37,7 +37,7 @@ During my time at Makers Academy I have absorbed the principles that they teach 
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Winchester School of Art (2000 to 2003)
 
 - Subject, any specialisms
 - Grade
