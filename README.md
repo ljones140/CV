@@ -21,8 +21,6 @@ While working at Gorkana Group I solved problems using tools not previously used
 
 At Makers Academy I was exposed to coding principles which has improved my ability to write good, test driven clean code. I understand that I have a lot to learn and although I can spot a code smell I may not at this moment have the experience to clear it up as much as I would like. I aspire to write code that is elegant, well crafted, that I am proud of and enjoy returning to.
 
-!!! May put links to examples of code where I feel the above is relevant !!!
-
 
 ## Education
 
@@ -39,26 +37,26 @@ At Makers Academy I was exposed to coding principles which has improved my abili
 ## Experience
 
 **Gorkana Group** (Jan 2015 to July 2015)  
-Market Leader in Global Media Intelligence
+Market Leader in Global Media Intelligence  
 *Application Support Team Lead*  
 Leading and Coaching application support team.
 Worked closely with business and development department
 Involved in software release process
 
-**Gorkana Group** (Jul 2014 to Jan 2015)
+**Gorkana Group** (Jul 2014 to Jan 2015)  
 *Senior Application Support Engineer*
 Creating documentation on department wiki
 Deal with support issues as escalated from team
 Project work: SQL stored procedures, Perl scripts, PHP pages
 
-**Gorkana Group** (Jul 2013 to Jul 2014)
+**Gorkana Group** (Jul 2013 to Jul 2014)  
 *Application Support Engineer*  
 second line support IT service desk
 SQL scripting and database support
 Web application support
 
-**Cass Art** (Nov 2010 to Jul 2013)
-Indpendant Art Supplier Retailer   
+**Cass Art** (Nov 2010 to Jul 2013)  
+Indpendant Art Supplier Retailer     
 *Logistics Manager*  
 Worked in Head office for Cass Art while they were a start up. Responsible for the delivery of stock from between sites and from suppliers.
 As small company also provided IT support for tills and office PCs. Facilities and health and safety
