@@ -43,12 +43,14 @@ At Makers Academy I was exposed to coding principles which has improved my the a
 Media Intelligence Software as a Service provider
 Leading and Coaching application support team.
 Worked closely with business and development department
-Involved release process as releases from an agile developlment department moved into ops ITIL environment
+Involved release process as releases from an agile development department moved into ops ITIL environment
+
 **Gorkana Group** (Jul 2014 to Jan 2015)
 *Senior Application Support Engineer*
 Creating documentation
 Deal with support issues as escalated from application support team
 Project work creating and maintaining SQL stored procedures, Perl scripts, PHP pages
+
 **Gorkana Group** (Jul 2013 to Jul 2014)
 *Application Support Engineer*  
 Working on IT service desk issues
@@ -58,6 +60,7 @@ SQL scripting database
 *Logistics Manager*  
 Worked in Head office for Cass Art while they were a start up. Responsible for the delivery of stock from between sites and from suppliers.
 As small company also provided IT support for tills and office PCs. Facilities and health and safety
+
 **Cass Art** (Nov 2007 to Nov 2010)   
 *Stockroom Manager*  
 
