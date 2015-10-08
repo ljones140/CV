@@ -1,6 +1,6 @@
 ## Lewis Jones
 
-Determined and ambitious with a strong desire to learn. After working in retail logistics decided I wanted to work in tech. Taught myself what I needed to get a job in application support, promoted to senior engineer then team lead all within two years. Through this I fell in love with code so applied to Makers academy to accelerate my learning. Now looking to join a company who will foster my first steps as a junior developer.
+My work in retail logistics naturally led me to tech as I took on a more IT support based role. These new skills allowed me to move into an application support role, where I was promoted to Senior Engineer and then Team Lead within two years. During this time I fell in love with code and applied to Makers Academy, a highly respected Ruby coding bootcamp, to accelerate my learning.I am now  looking to join a company who will foster my first steps as a junior developer.
 
 ## Technical Skills and Tooling
 
@@ -10,7 +10,7 @@ Determined and ambitious with a strong desire to learn. After working in retail 
 | Coding  | PHP, Perl, shell and batch scripts | Ruby and Javascript |
 | Operating Systems | Windows server and Linux (ubuntu) on VMware vSphere estate | Osx and deployment to Heroku |
 | Frameworks | support of.Net and Java applications| creating applications with Sinatra, Rails, node.js and Angular
-|Other | experience supporting workflows using RabbitMQs. Text search Software. Bulk email sending | Testing Frameworks rpsec, capybara, jasmine, mocha and protractor. Version control with Git and Git hub |
+|Other | experience supporting workflows using RabbitMQs. Text search Software. Bulk email sending | Testing Frameworks rpsec, capybara, jasmine, mocha and protractor. Version control with Git hub. Continous Intergration : Travis, hound, coveralls |
 
 #### Proactive Problem Solving
 
@@ -57,8 +57,9 @@ Web application support
 **Cass Art** (Nov 2010 to Jul 2013)  
 Independent Art Supplier Retailer     
 *Logistics Manager*  
-Worked in Head office for Cass Art while they were a start up. Responsible for the delivery of stock from between sites and from suppliers.
-Provided IT support for tills and office PCs.
+Worked in Head office for Cass Art while they were a start up  
+Responsible for the delivery of stock from between sites and from suppliers.
+Provided IT support for tills and office PCs  
 Responsible for facilities and health and safety
 
 **Cass Art** (Nov 2007 to Nov 2010)   
