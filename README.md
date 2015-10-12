@@ -36,7 +36,7 @@ At Makers Academy I was exposed to good coding principles which has improved my 
 [**StieglitzGram**](https://github.com/ljones140/StieglitzGram) is an online photography gallery. It is written using Rails, Jquery, Foundation and PostgreSQL. It is tested using RSpec, Capybara, Factory Girl and Poltergeist to test the JavaScript.I am particularly proud of the elegance of the controllers as they thin and the logic is with the model. I learned how to use Factory Girl effectively with my tests to  mock and create objects where required.
 
 
-[**Live-Voting**](https://github.com/ljones140/live-voting) this was my final project at Makers Academy. A voting application for speakers at events. It uses websockets provided by Pusher to push questions to audience members devices. As voters vote the speakers display has graph that changes dynamically as each vote comes in. I worked as part of a team of five and we used waffle.io for our scrum board. We had standups which allowed the project to evolve in the agile process. By doing this project we learned how a product can emerge with BDD and how multiple pairs of programmers can work on the same code base at the same time.
+[**Live-Voting**](https://github.com/ljones140/live-voting) this was my final project at Makers Academy. An application for speakers at events. It uses websockets provided by Pusher to push questions to audience members. As voters vote the speakers display has a view that changes dynamically. We held daily standups which allowed the project to evolve in the agile process. By doing this project I learned how a team project can grow with BDD and how multiple pairs of programmers can work on the same code base at the same time.
 
 
 #### My Blog
