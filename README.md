@@ -1,72 +1,89 @@
 ## Lewis Jones
 
-My work in retail logistics naturally led me to tech as I took on a more IT support based role. These new skills allowed me to move into an application support role, where I was promoted to Senior Engineer and then Team Lead within two years. During this time I fell in love with code and applied to Makers Academy, a highly respected Ruby coding bootcamp, to accelerate my learning.I am now  looking to join a company who will foster my first steps as a junior developer.
+A determined and ambitious junior Software Developer with a strong desire to learn.
 
-## Technical Skills and Tooling
+I strive for quality and craftsmanship in everything I do and am looking for an opportunity to further my knowledge whilst contributing to real-world projects and problem solving.
 
-|      | Professional Exposure| Self Led and Educational Exposure |  
+After working in Retail Logistics for five years, I decided to move into Technology. I taught myself what was needed to get a job in Application Support at Gorkana, and was quickly promoted to Senior Engineer and then Team Lead within two years. During this time I was learning to program Ruby and PHP at home, and wrote some PHP and Perl at work. I realised programming was what I wanted to do, so applied to Makers Academy to accelerate my learning. I am now looking to join a company who will foster my first steps as a junior developer and give me the opportunity and support to develop my craft.
+
+
+## Skills
+
+|      | Self-led and Educational Exposure | Professional Exposure|  
 |--------|---------------------|----------------------|--------|
-| Databases | Support and query writing with Oracle, Microsoft SQL and MySQL | Postgres. ORMs and databases with object oriented domains |
-| Coding  | PHP, Perl, shell and batch scripts | Ruby and Javascript |
-| Operating Systems | Windows server and Linux (ubuntu) on VMware vSphere estate | Osx and deployment to Heroku |
-| Frameworks | support of.Net and Java applications| creating applications with Sinatra, Rails, node.js and Angular
-|Other | experience supporting workflows using RabbitMQs. Text search Software. Bulk email sending | Testing Frameworks rpsec, capybara, jasmine, mocha and protractor. Version control with Git hub. Continous Intergration : Travis, hound, coveralls |
+| Programming  | Ruby and Javascript | PHP, Perl, HTML, CSS and shell scripts |
+| Operating Systems | OS X and Heroku | Windows Server and Linux (Ubuntu) on a VMware vSphere estate |
+| Frameworks | Sinatra, Rails, Foundation, Bootstrap, Node.js and AngularJS | Support of .NET and Java apps |
+| Databases | PostgreSQL, MongoDB, Active Record and DataMapper | Support and querying Oracle, Microsoft SQL and MySQL |
+| Other | RSpec, Capybara, Factory Girl, Cucumber, Poltergeist, Selenium, Jasmine, Mocha, Protractor, Git, GitHub, Pusher websockets, Travis CI, Hound CI and Coveralls | Supporting workflows using RabbitMQ. Text search Software. Bulk email sending. |
+
 
 #### Proactive Problem Solving
 
-While working at Gorkana Group I solved problems using tools not previously used by my department. For example I identified an issue where several times a week my team were repeatedly writing similar SQL reports requested by customer services. I was teaching myself PHP at the time and got sign off to create a set of internal web pages for customer services to run the reports themselves. It taught me that business problems could be solved with code if you understand what the business needs are.
+While working at Gorkana I found new ways to solve the problems we were repeatedly encountering in my department.
+
+For example, I realised that my team was repeatedly writing similar SQL reports for the Customer Services department. I created a web app in PHP to allow Customer Services to run the reports themselves. It taught me that there are many opportunities to improve business productivity with software if you can understand the business's needs.
+
+We had a platform for emailing press releases to journalists. There was a bug where the processing of bounceback emails would stop without alerting. I created a Perl script that curled an internal API that returned JSON with queue statistics. If the bounceback queue was above a threshold the script would email IT support to indicate an issue. It was set up to run automatically on a crontab to provide alerting. 
 
 
 #### Desire to Craft High Quality Code
 
-At Makers Academy I was exposed to good coding principles which has improved my ability to write good, test driven clean code. I understand that I have a lot to learn and although I can spot a code smell I may not at this moment have the skills to clear it up as well as I would like. I aspire to write code that is elegant, well crafted, I am proud of and enjoy returning to.
+At Makers Academy I was exposed to good coding principles which has improved my ability to write good, test-driven clean code. I understand that I have a lot to learn and although I can spot a code smell I may not at this moment have the skills to clear it up as well as I would like. I aspire to write code that is elegant, well crafted, I am proud of and enjoy returning to.
+
+#### Projects  
+
+[**StieglitzGram**](https://github.com/ljones140/StieglitzGram) is an online photography gallery. It is written using Rails, Jquery, Foundation and PostgreSQL. It is tested using RSpec, Capybara, Factory Girl and Poltergeist to test the JavaScript.I am particularly proud of the elegance of the controllers as they thin and the logic is with the model. I learned how to use Factory Girl effectively with my tests to  mock and create objects where required.
+
+
+[**Live-Voting**](https://github.com/ljones140/live-voting) this was my final project at Makers Academy. A voting application for speakers at events. It uses websockets provided by Pusher to push questions to audience members devices. As voters vote the speakers display has graph that changes dynamically as each vote comes in. I worked as part of a team of five and we used waffle.io for our scrum board. We had standups which allowed the project to evolve in the agile process. By doing this project we learned how a product can emerge with BDD and how multiple pairs of programmers can work on the same code base at the same time.
+
+
+#### My Blog
+  
+[Lewis's blog](https://medium.com/@ljones140)
 
 ## Education
 
-#### Makers Academy (July 2015 to October 2015)
+##### Makers Academy *(July 2015 to October 2015)*
 
+##### Winchester School of Art *(2000 to 2003) - Fine Art, Painting - 2:1*
 
-#### Winchester School of Art (2000 to 2003)
+##### Kent Institute of Art and Design *(1999 to 2000) - Art and Design Foundation Course* 
 
-- Fine Art, Painting
-- 2:1
-
-#### Any other qualifications
 
 ## Experience
 
-**Gorkana Group** (Jan 2015 to July 2015)  
+**Gorkana Group**  
 Market Leader in Global Media Intelligence  
-*Application Support Team Lead*  
+
+*Application Support Team Lead*  (Jan 2015 to Jul 2015)  
 Leading and coaching application support team  
 Worked closely with business and development department  
 Involved in software release process  
 
-**Gorkana Group** (Jul 2014 to Jan 2015)  
-*Senior Application Support Engineer*  
+*Senior Application Support Engineer*  (Jul 2014 to Jan 2015)  
 Deal with escalated support issues  
 Documentation  
-Project work:  SQL stored procedures, Perl scripts, PHP pages  
+Project work: SQL stored procedures, Perl scripts, PHP pages  
 
-**Gorkana Group** (Jul 2013 to Jul 2014)  
-*Application Support Engineer*    
+*Application Support Engineer* (Jul 2013 to Jul 2014)  
 Second line support IT service desk  
 SQL scripting and database support  
 Web application support  
 
-**Cass Art** (Nov 2010 to Jul 2013)  
-Independent Art Supplier Retailer     
-*Logistics Manager*  
-Worked in Head office for Cass Art while they were a start up  
-Responsible for the delivery of stock from between sites and from suppliers.
+**Cass Art**  
+Independent Art Supply Retailer
+
+*Logistics Manager* (Nov 2010 to Jul 2013)    
+Worked in Head office for Cass Art while they were a startup  
+Responsible for the delivery of stock from between sites and from suppliers
 Provided IT support for tills and office PCs  
 Responsible for facilities and health and safety
 
-**Cass Art** (Nov 2007 to Nov 2010)   
-*Stockroom Manager*  
+*Stockroom Manager* (Nov 2007 to Nov 2010)  
 
-**Music and Video Exchange** (Aug 2004 to Nov 2007)   
-*Retail Assistant and Computer Game Buyer*
+**Music and Video Exchange**    
+*Retail Assistant and Computer Game Buyer* (Aug 2004 to Nov 2007)   
 
-**Lloyds Bank** (Aug 2003 to Dec 2003)   
-*Cheque processing*
+
