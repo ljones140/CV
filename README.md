@@ -29,12 +29,11 @@ We had a platform for emailing press releases to journalists. There was a bug wh
 
 #### Desire to Craft High Quality Code
 
-At Makers Academy I was exposed to good coding principles which has improved my ability to write good, test-driven clean code. I understand that I have a lot to learn and although I can spot a code smell I may not at this moment have the skills to clear it up as well as I would like. I aspire to write code that is elegant, well crafted, I am proud of and enjoy returning to.
+At Makers Academy I was exposed to good coding principles which has improved my ability to write good, test-driven clean code. I aspire to write code that is elegant, well crafted, I am proud of and enjoy returning to.
 
 #### Projects  
 
 [**StieglitzGram**](https://github.com/ljones140/StieglitzGram) is an online photography gallery. It is written using Rails, Jquery, Foundation and PostgreSQL. It is tested using RSpec, Capybara, Factory Girl and Poltergeist to test the JavaScript.I am particularly proud of the elegance of the controllers as they thin and the logic is with the model. I learned how to use Factory Girl effectively with my tests to  mock and create objects where required.
-
 
 [**Live-Voting**](https://github.com/ljones140/live-voting) this was my final project at Makers Academy. An application for speakers at events. uses websockets to push questions to audience members. As votes come in the speakers display shows a graph that changes dynamically . We held daily standups which allowed the project to evolve in the agile process. By doing this project I learned how a team project grows with BDD and how multiple pairs of programmers can work on the same code base at the same time.
 
@@ -57,7 +56,6 @@ I was part of a team that won the above three awards . We built a single page ap
 ##### Winchester School of Art *(2000 to 2003) - Fine Art, Painting - 2:1*
 
 ##### Kent Institute of Art and Design *(1999 to 2000) - Art and Design Foundation Course*
-
 
 ## Experience
 
